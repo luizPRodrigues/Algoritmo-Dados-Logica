@@ -1,0 +1,22 @@
+# Diretórios específicos do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Diretórios de build Maven
+target/
+
+# Arquivos de logs
+*.log
+
+# Diretórios de cache do Maven
+.mvn/
+.m2/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo sistema operacional
+*.swp
+*.swo
