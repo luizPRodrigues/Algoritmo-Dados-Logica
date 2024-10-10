@@ -13,6 +13,7 @@ public class CadaLinha {
         System.out.println("\n====================Qual a ordem da matriz?====================");
         int ordem = entrada.nextInt();
 
+
         if (ordem >= 1 && ordem <= 10) {
             int linhas[][] = new int[ordem][ordem];
             for (int i = 0; i < ordem; i++) {
